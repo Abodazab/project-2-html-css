@@ -520,6 +520,7 @@
     height: 0.5px;
     background-color: gray;
     position: absolute;
+    left: 95px;
     bottom: -25px;
     left: 92;
 }
